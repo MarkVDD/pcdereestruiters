@@ -1,0 +1,49 @@
+html,
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.text-marigold {
+    color: #FBEA74 !important;
+}
+
+nav.navbar {
+    background: #4f545a86;
+}
+
+li {
+    list-style-type: none;
+}
+
+.hero {
+    background: url("../images/header-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.text-gray {
+    color: #5c5d60 !important;
+}
+
+.table-center {
+    margin-left: 130px !important;
+}
+
+hr {
+    border: none;
+    width: 90%;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 1px solid lightgray;
+    box-shadow: 0 1px 1px -px #333;
+    margin: -50px auto 10px;
+}
+
+.mt-10 {
+    margin-top: 100px;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
